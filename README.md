@@ -22,6 +22,11 @@
 
 [Live Project](https://banana-speak-lord.netlify.app/)
 
+## Screenshots
+
+![banana](https://user-images.githubusercontent.com/52795506/205507273-83d0f5e8-622f-4032-baa6-25db30d794d7.jpg)
+
+
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/priyanshu844/)
